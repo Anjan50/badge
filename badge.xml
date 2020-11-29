@@ -1,0 +1,29 @@
+  <div class='gallery-cell'>
+    <div class='testimonial'>
+        <a href='https://www.youracclaim.com/badges/72eb3e30-3dbb-459a-bc91-ebabf3a9da7d/linked_in'><img class='testimonial-avatar' src='https://github.com/Anjan50/badge/blob/main/Untitled%20design%20(20).png?raw=true'/></a>
+      <q class='testimonial-quote'>&quot;IT support specialist Badge from Google.Click badge for verifivation.&quot;</q>
+      <span class='testimonial-author'>Anjan Diyora, IT supportist</span>
+    </div>
+  </div>
+  <div class='gallery-cell'>
+     <div class='testimonial'>
+        <a href='https://www.qwiklabs.com/public_profiles/d119e4e2-7d47-46d5-a735-1f3577a4e31e'><img class='testimonial-avatar' src='https://github.com/Anjan50/badge/blob/main/Untitled%20design%20(19).png?raw=true'/></a>
+      <q class='testimonial-quote'>&quot;Click On Qwikslabs symbol for show my Cloud computing skill and achivement..&quot;</q>
+      <span class='testimonial-author'>Anjan Diyora,Tech Enthusiastic</span>
+    </div>
+  </div>
+  <div class='gallery-cell'>
+        <div class='testimonial'>
+        <a href='https://www.qwiklabs.com/public_profiles/d119e4e2-7d47-46d5-a735-1f3577a4e31e'><img class='testimonial-avatar' src='https://github.com/Anjan50/badge/blob/main/Untitled%20design%20(21).png?raw=true'/></a>
+      <q class='testimonial-quote'>&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mauris ex, gravida ut leo eu, rhoncus porta orci. Fusce vitae rutrum nulla.&quot;</q>
+      <span class='testimonial-author'>Ryan Waltz, Front-End Developer</span>
+    </div>
+  </div>
+    <div class='gallery-cell'>
+    <div class='testimonial'>
+        <a href='https://www.qwiklabs.com/public_profiles/d119e4e2-7d47-46d5-a735-1f3577a4e31e'><img class='testimonial-avatar' src='https://github.com/Anjan50/badge/blob/main/Untitled%20design%20(22).png?raw=true'/></a>
+      <q class='testimonial-quote'>&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mauris ex, gravida ut leo eu, rhoncus porta orci. Fusce vitae rutrum nulla.&quot;</q>
+      <span class='testimonial-author'>Joe Smith, CEO of Cubix</span>
+    </div>
+  </div>
+</div>
